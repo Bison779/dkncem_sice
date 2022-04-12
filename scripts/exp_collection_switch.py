@@ -16,7 +16,7 @@ rosrun plotjuggler plotjuggler
 
 # under 58cm
 """OSC_1
-P = 0.1
+P = 0.3
 D = 0.1
 """
 """OSC_2
